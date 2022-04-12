@@ -1,0 +1,5 @@
+# Clean pod install
+$ cd ./ios #go to ios source folder
+$ pod deintegrate
+$ pod clean
+$ pod install
